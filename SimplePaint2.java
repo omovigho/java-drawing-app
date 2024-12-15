@@ -18,6 +18,15 @@ import javafx.geometry.Point2D;
 
 import java.util.ArrayList;
 
+/**
+ * This program has a drawing surface on which the user can
+ * sketch curves, with menus to control the curve color
+ * and background color.  The user can turn on a "symmetry"
+ * option; this makes the program draw horizontal and
+ * vertical reflections of the user's curves.
+ * 
+ * (The real point of this example is to demonstrate ArrayList.)
+ */
 
 public class SimplePaint2 extends Application {
     
